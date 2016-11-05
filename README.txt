@@ -1,8 +1,3 @@
-Name: Rui Wu
-ccid: rwu4
-Name: Runqi Wang
-ccid: runqi
-
 Use make to compile server.c and client.c
 The server address is 127.0.0.1
 
